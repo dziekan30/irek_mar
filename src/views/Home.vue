@@ -110,10 +110,11 @@
           <a href="https://www.facebook.com/Irekmarsalonandspa/?__tn__=%2Cd%2CP-R&eid=ARDOxn-iKgOtUGdiPeSXvjMlGbg1ffVoSMqY24px7n5czk3TzbEfC8E59lsOMTUITXTRNiuZu6X0D-4v"><i class="i fab fa-facebook display-4"></i></a>
           <i class="i fab fa-instagram display-4"></i>
           <i class="i fab fa-pinterest display-4"></i>
-          </div>
+          </div> 
         </div>
 
-      </div>
+      </div> 
+      <p> © 2020 Irek Mar Salon & Spa All Right Reserved. Website powered & designed by K.D.</p>
     </div>
 
   </div>
