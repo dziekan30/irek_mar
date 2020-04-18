@@ -4,7 +4,7 @@
     
     <div class="jumbotron jumbotron-fluid header">
       <div class="container">
-        <img src="https://scontent-ort2-2.xx.fbcdn.net/v/t31.0-8/10714396_854218474610980_5548625635518804257_o.jpg?_nc_cat=103&_nc_sid=85a577&_nc_oc=AQm6obXbU9ULz5JUPyyQ7aTUm5JnWOhDcpear-rgvmVtWboqXb8grCcqq--7ss_D6aMdzwax6aPuLcXQVwE9xV_w&_nc_ht=scontent-ort2-2.xx&oh=21fd62f301c8f09d891be1130c7c7f86&oe=5EBEE864" class="rounded mx-auto d-block logo" alt="...">
+        <img src="/irek_mar.png" class="rounded mx-auto d-block logo" >
       </div>
       <div>
        
@@ -18,10 +18,10 @@
 
     <div class="container">
       <h1 class="text margin">About Us</h1>
-      <div class="card mb-3" style="max-width: 940px;">
+      <div class="card mb-3" style="max-width: 1100px;">
         <div class="row no-gutters">
           <div class="col-md-4">
-            <img src="" class="card-img" alt="...">
+            <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" class="card-img" alt="...">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -32,24 +32,24 @@
         </div>
       </div>
 
-      <div class="card mb-3 " style="max-width: 940px;">
+      <div class="card mb-3 " style="max-width: 1100px;">
         <div class="row no-gutters">
-          <div class="col-md-4">
-            <img src="" class="card-img" alt="...">
-          </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
+          <div class="col-md-4">
+            <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" class="card-img" alt="...">
+          </div>
         </div>
       </div>
 
-      <div class="card mb-3" style="max-width: 940px;">
+      <div class="card mb-3" style="max-width: 1100px;">
         <div class="row no-gutters">
           <div class="col-md-4">
-            <img src="" class="card-img" alt="...">
+            <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" class="card-img" alt="...">
           </div>
           <div class="col-md-8">
             <div class="card-body">
@@ -104,7 +104,7 @@
         <h1 class=" text card-title">Follow us</h1>
         <div class="row">
           <div class="container col-sm-4 ">
-            <img src="https://scontent-ort2-2.xx.fbcdn.net/v/t31.0-8/10714396_854218474610980_5548625635518804257_o.jpg?_nc_cat=103&_nc_sid=85a577&_nc_oc=AQm6obXbU9ULz5JUPyyQ7aTUm5JnWOhDcpear-rgvmVtWboqXb8grCcqq--7ss_D6aMdzwax6aPuLcXQVwE9xV_w&_nc_ht=scontent-ort2-2.xx&oh=21fd62f301c8f09d891be1130c7c7f86&oe=5EBEE864" class="rounded mx-auto d-block footer-logo" alt="...">
+            <img src="/irek_mar.png" class="rounded mx-auto d-block footer-logo" alt="...">
           </div>
           <div class="row col-sm-6">
           <a href="https://www.facebook.com/Irekmarsalonandspa/?__tn__=%2Cd%2CP-R&eid=ARDOxn-iKgOtUGdiPeSXvjMlGbg1ffVoSMqY24px7n5czk3TzbEfC8E59lsOMTUITXTRNiuZu6X0D-4v"><i class="i fab fa-facebook display-4"></i></a>

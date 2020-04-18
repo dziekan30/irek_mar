@@ -38,11 +38,13 @@
   left: 0;
   bottom: 0;
   width: 100%;
+  background-color: #2a262c;
+  color: white;
 }
 .footer-logo {
   height: 140px;
   width: 140px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 .i {
   margin-top: 20px;
