@@ -13,6 +13,23 @@
 .header {
   text-align: center;
   font-weight: bold;
+  height: 800px;
+}
+.logo {
+  height: 200px;
+  width: 200px;
+}
+.main-text {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-weight: bold;
+}
+
+ .jumbotron {
+/*  background-image: url("/rsz_1rsz_irek_mar.png");
+*/  background-size: cover;
+
 }
 .footer {
  /* margin-top: -100px;
