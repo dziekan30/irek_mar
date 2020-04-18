@@ -26,7 +26,7 @@
   font-weight: bold;
 }
 
- .jumbotron {
+.jumbotron {
 /*  background-image: url("/rsz_1rsz_irek_mar.png");
 */  background-size: cover;
 
@@ -35,9 +35,17 @@
  /* margin-top: -100px;
   position: relative;
   background-color: black;*/
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
+}
+.footer-logo {
+  height: 140px;
+  width: 140px;
+  margin-bottom: 10px;
+}
+.i {
+  margin-top: 20px;
+  margin-right: 15px;
 }
 </style>
