@@ -48,4 +48,12 @@
   margin-top: 20px;
   margin-right: 15px;
 }
+.text {
+  margin: 10px;
+  text-align: center;
+}
+.margin {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
 </style>
