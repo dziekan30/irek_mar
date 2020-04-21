@@ -75,8 +75,9 @@
          <div class="card">
            <div class="card-body">
              <h3 class="card-title">Our Hours</h3>
-             <h4 class="card-text">Mon - Sat 9am to 6pm</h4>
-             <h4 class="card-text">Sunday close</h4>
+             <h4 class="card-text">Mon - Fri 9am to 6pm</h4>
+             <h4 class="card-text">Saturday 11am to 6pm</h4>
+             <h4 class="card-text">Sunday - close</h4>
            </div>
          </div>
        </div>
@@ -108,7 +109,7 @@
           </div>
           <div class="row col-sm-6">
           <a href="https://www.facebook.com/Irekmarsalonandspa/?__tn__=%2Cd%2CP-R&eid=ARDOxn-iKgOtUGdiPeSXvjMlGbg1ffVoSMqY24px7n5czk3TzbEfC8E59lsOMTUITXTRNiuZu6X0D-4v"><i class="i fab fa-facebook display-4"></i></a>
-          <i class="i fab fa-instagram display-4"></i>
+          <a href="https://www.instagram.com/irek_mar_salon_and_spa/"><i class="i fab fa-instagram display-4"></i></a>
           <i class="i fab fa-pinterest display-4"></i>
           </div> 
         </div>
